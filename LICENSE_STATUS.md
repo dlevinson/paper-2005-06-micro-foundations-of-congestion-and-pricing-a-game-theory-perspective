@@ -1,6 +1,6 @@
 # License Status: Micro-Foundations Of Congestion And Pricing: A Game Theory Perspective
 
-Generated: 2026-05-20 15:32:54 AEST
+Generated: 2026-05-21 20:04:48 AEST
 
 Recorded license/access note from the verified audit row: Publisher/repository terms apply.
 
