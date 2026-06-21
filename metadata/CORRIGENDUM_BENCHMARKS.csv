@@ -1,0 +1,13 @@
+E,D,L,published_unpriced_count,published_unpriced_patterns,published_priced_count,published_priced_patterns,lowest_total_cost
+0,0,0,64,all,64,all,0
+0,1,0,24,"veo; vel; vol; eol and permutations",24,"veo; vel; vol; eol and permutations",0
+0,0,1,16,"vvv; vve; vvo; vee; veo and permutations",16,"vvv; vve; vvo; vee; veo and permutations",0
+0,1,1,6,veo and permutations,6,veo and permutations,0
+1,0,0,8,"ooo; lll; ool; oll and permutations",8,"ooo; lll; ool; oll and permutations",0
+1,1,0,7,"ooo; ool; oll and permutations",9,"oll; eol and permutations",1
+1,0,1,5,"ooo; eee; eoo and permutations",10,"eee; eeo; eol and permutations",2
+1,1,1,9,"eol; eoo and permutations",6,eol and permutations,2
+3,1,4,1,eee,6,eol and permutations,7
+4,0,3,2,"ooo; eee",10,"eee; eoo; eol and permutations",7
+4,1,3,4,"ooo; eoo and permutations",6,eol and permutations,7
+3,0,4,1,eee,13,"eee; eeo; eoo; eol and permutations",7
