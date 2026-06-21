@@ -1,0 +1,3 @@
+publication_role,year,authors,title,venue,volume,pages,doi,relationship,repository_scope
+original_article,2005,David Levinson,Micro-Foundations Of Congestion And Pricing: A Game Theory Perspective,Transportation Research Part A,39(7-9),691-704,https://doi.org/10.1016/j.tra.2005.02.021,corrected_by_2015_corrigendum,same_repository
+corrigendum,2015,David Levinson and Nicholas Janusch,"Corrigendum to ""Micro-Foundations Of Congestion And Pricing: A Game Theory Perspective""",Transportation Research Part A,78,144-145,https://doi.org/10.1016/j.tra.2015.05.009,corrects_2005_original,same_repository

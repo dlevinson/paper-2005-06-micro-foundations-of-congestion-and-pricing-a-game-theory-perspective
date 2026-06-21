@@ -1,13 +1,13 @@
-# License Status: Micro-Foundations Of Congestion And Pricing: A Game Theory Perspective
+# License Status
 
-Generated: 2026-05-21 20:04:48 AEST
+Updated: 2026-06-21 AEST
 
-Recorded license/access note from the verified audit row: Publisher/repository terms apply.
+An explicit mixed license is recorded in `LICENSE.md`:
 
-Before public GitHub upload, add an explicit license for author-created code/data or mark the package as citation/provenance-only. Do not license third-party raw data or publisher PDFs.
+- author-created code and model workbooks in `code/`: MIT License, matching the
+  license used for other deposited code;
+- author-created benchmark data and repository documentation: CC BY 4.0;
+- article PDF under `paper/`: not relicensed and subject to publisher or
+  repository terms.
 
-## Practical Rule
-
-- Author-created code can receive an explicit software license only after finality/provenance is confirmed.
-- Author-created data/derived tables can receive an explicit data/documentation license only after source rights are clear.
-- Third-party raw data and publisher PDFs are not relicensed here.
+No third-party empirical data are included.
