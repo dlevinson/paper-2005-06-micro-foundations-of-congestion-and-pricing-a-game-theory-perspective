@@ -1,11 +1,16 @@
-# Micro-Foundations Of Congestion And Pricing: A Game Theory Perspective
+# Micro-Foundations Of Congestion And Pricing: Article And Corrigendum
 
-## Bibliographic Information
+## Publications Covered By This Repository
 
 - Row ID: `paper-2005-06`
 - Original article: David Levinson (2005), “Micro-Foundations Of Congestion And Pricing: A Game Theory Perspective,” *Transportation Research Part A* 39(7–9), 691–704. https://doi.org/10.1016/j.tra.2005.02.021
 - Corrigendum: David Levinson and Nicholas Janusch (2015), “Corrigendum to ‘Micro-Foundations Of Congestion And Pricing: A Game Theory Perspective’,” *Transportation Research Part A* 78, 144–145. https://doi.org/10.1016/j.tra.2015.05.009
 - Repository handle/source pointer: https://hdl.handle.net/11299/179927
+
+This is the single data-and-code repository for both linked publications. The
+2015 corrigendum corrects the 2005 article and shares its computational record;
+it should not be assigned a separate GitHub repository. A machine-readable
+publication crosswalk is in `metadata/PUBLICATIONS.csv`.
 
 ## Reproduction Status
 
@@ -34,6 +39,7 @@ case-specific selection among cost-tied weak equilibria.
 - `code/reproduce_corrigendum.py`: dependency-free Python reconstruction and benchmark audit.
 - `code/model_workbooks/corrected_xlsx/three_player_corrigendum_reconstruction.xlsx`: editable, formula-driven workbook with all 64 profiles, all twelve benchmark cases, corrected arrival probabilities, toll rules, and pass/fail checks.
 - `metadata/CORRIGENDUM_BENCHMARKS.csv`: machine-readable transcription of the corrected Table 11.
+- `metadata/PUBLICATIONS.csv`: citations and DOI relationship for the original article and corrigendum.
 - `documentation/CORRIGENDUM_REPRODUCTION.md`: detailed provenance and interpretation.
 
 Run:
@@ -76,4 +82,4 @@ The historical workbooks are retained for provenance and should not be described
 
 See `LICENSE.md`.
 
-Corrected package review: 2026-06-21.
+Corrected package review: 2026-06-22.

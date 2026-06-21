@@ -1,10 +1,13 @@
 # Package Status: Micro-Foundations Of Congestion And Pricing
 
-Updated: 2026-06-21 AEST
+Updated: 2026-06-22 AEST
 
 ## Audit State
 
 - Row ID: `paper-2005-06`
+- Repository scope: one repository covering the 2005 article and its 2015 corrigendum
+- Publications represented: 2
+- Separate corrigendum repository: none; do not create one
 - Pipeline: `UPLOADED`
 - Upload action: `code_only_candidate`
 - Packaging status: `corrected_reconstruction_added`
@@ -25,8 +28,9 @@ Updated: 2026-06-21 AEST
 
 ## Package Checks
 
-- Files in manifest: 19
-- Paper reference files: 2
+- Files in manifest: 20
+- Publications listed: 2
+- Local paper-reference files: 2
 - Historical workbook files: 8
 - Corrected/reconstruction code or workbook files: 2
 - Benchmark data files: 1
