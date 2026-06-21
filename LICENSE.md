@@ -10,8 +10,8 @@ repository documentation are released under the Creative Commons Attribution
 4.0 International License (CC BY 4.0), unless a file-level note says
 otherwise.
 
-The article PDF under `paper/` is not relicensed by this repository. It remains
-subject to its publisher or repository terms.
+The publication PDFs under `paper/` are not relicensed by this repository.
+They remain subject to their publisher or repository terms.
 
 ## MIT License For Code
 

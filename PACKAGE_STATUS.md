@@ -19,6 +19,9 @@ Updated: 2026-06-22 AEST
 
 ## Verification Result
 
+- The paper develops a game-theoretic micro-foundation for congestion and
+  shows how pricing can support cooperation and lower collective costs.
+- Both the original article and corrigendum are included in `paper/`.
 - The historical three-player workbook is preserved but is not corrected.
 - The corrigendum probability correction is implemented and all probability rows sum to one.
 - The exact published corrected Table 11 is included as a benchmark.
@@ -28,9 +31,10 @@ Updated: 2026-06-22 AEST
 
 ## Package Checks
 
-- Files in manifest: 20
+- Files in manifest: 21
 - Publications listed: 2
-- Local paper-reference files: 2
+- Publication PDF files: 2
+- Paper-reference documentation files: 1
 - Historical workbook files: 8
 - Corrected/reconstruction code or workbook files: 2
 - Benchmark data files: 1
@@ -40,5 +44,5 @@ Updated: 2026-06-22 AEST
 ## Upload Boundary
 
 - Use `PACKAGE_MANIFEST.csv` as the file checklist.
-- Treat files under `paper/` as local reference copies unless rights review explicitly clears them.
+- Publication PDFs under `paper/` retain their publisher or repository terms.
 - Code and model workbooks are MIT licensed; benchmark data and documentation are CC BY 4.0.

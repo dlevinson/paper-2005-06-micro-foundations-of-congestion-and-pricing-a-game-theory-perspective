@@ -13,8 +13,11 @@ This single repository covers both the original article and its corrigendum:
 Both publications map to row `paper-2005-06` and to this same GitHub
 repository. No separate repository should be created for the corrigendum.
 
-`Microfoundations.pdf` is the local audit reference copy of the original
-article. The corrigendum is listed by DOI and was inspected from the local
-publisher/source files, but its publisher PDF is not copied into the public
-package. Review publisher and repository rights before redistributing either
-article PDF.
+Included reference copies:
+
+- [`Microfoundations.pdf`](Microfoundations.pdf): the original 2005 article.
+- [`Corrigendum.pdf`](Corrigendum.pdf): the 2015 corrigendum, which strengthens the three-player
+  model record by revising its probability, cost, and equilibrium calculations.
+
+These publication PDFs retain their publisher or repository terms and are not
+relicensed by this data-and-code repository.
